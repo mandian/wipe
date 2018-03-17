@@ -1,4 +1,4 @@
-Summary:        Securely erase files from magnetic media
+Summary:        A UNIX tool for secure deletion
 Name:           wipe
 Version:        0.24
 Release:        0
